@@ -1,0 +1,33 @@
+.boss {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2em;
+}
+
+
+.contact {
+    display: flex;
+    flex-direction: row;
+}
+
+.contacti {
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 2em;
+    width: 25em;
+
+
+}
+
+.pici img {
+    width: 17em;
+    border-radius: 2em;
+    margin: 0%;
+    height: 50vh;
+}
+
+.define {
+    padding: 2em;
+}
